@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "dont run me as root"
 echo "O que deseja fazer, limpar todos os arquivos do lixo ou restaurar os arquivos na pasta trash_files dentro do diretorio $PWD"
 echo
 echo "1 para apenas limpar"
