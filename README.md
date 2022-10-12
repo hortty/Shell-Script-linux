@@ -5,4 +5,5 @@ Some shell scripts files, like hexadecimal conversion, getting hardware info and
 To be able to run them, just use the follow commands in terminal:
 
 chmod 777 ./file_name.sh
+
 ./file_name.sh
